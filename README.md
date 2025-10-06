@@ -6,8 +6,8 @@ Follow these steps to get the project running locally:
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
-cd quiz-application--
+git clone https://github.com/sjinay23/Quiz-Application.git
+cd Quiz-Application
 
 # 2. Install dependencies
 npm install
